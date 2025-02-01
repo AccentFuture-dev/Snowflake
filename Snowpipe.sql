@@ -28,7 +28,6 @@ CREATE OR REPLACE FILE FORMAT healthcare_db.public.fileformat
 
 LIST @healthcare_db.public.stage;
 
-
 select $1,$2,$3,$4,$5 from @healthcare_db.public.stage;
 
 
