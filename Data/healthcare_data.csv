@@ -1,0 +1,1001 @@
+HospitalName,City,State,Beds,Specialties
+Hilltop Clinic,Houston,FL,470,Neurology
+Sunrise Medical Center,Denver,CO,371,Pediatrics
+Pinewood Health,San Francisco,TX,211,Cardiology
+Central Healthcare,Denver,TX,200,General Surgery
+Coastal Care Center,Denver,WA,331,Cardiology
+River Valley Hospital,New York,TX,257,General Surgery
+Northside Hospital,Chicago,WA,306,Neurology
+Central Healthcare,Houston,TX,107,Dermatology
+Coastal Care Center,Phoenix,AZ,159,Neurology
+Lakeview Hospital,San Francisco,WA,367,Neurology
+River Valley Hospital,San Francisco,CA,345,Dermatology
+Pinewood Health,Los Angeles,FL,364,Orthopedics
+Northside Hospital,Denver,IL,368,Emergency Medicine
+Sunrise Medical Center,San Francisco,AZ,267,Cardiology
+Coastal Care Center,Los Angeles,CO,431,Oncology
+Central Healthcare,Dallas,NY,291,Cardiology
+River Valley Hospital,Seattle,IL,266,Cardiology
+Central Healthcare,Seattle,IL,291,Pediatrics
+Hilltop Clinic,Seattle,WA,345,Dermatology
+Central Healthcare,Denver,FL,248,Orthopedics
+Northside Hospital,New York,IL,130,General Surgery
+City Medical Center,New York,FL,67,Dermatology
+River Valley Hospital,San Francisco,CA,467,Neurology
+Pinewood Health,New York,CO,74,General Surgery
+Central Healthcare,Chicago,FL,210,Dermatology
+Hilltop Clinic,San Francisco,NY,490,Cardiology
+Sunrise Medical Center,Chicago,AZ,489,Emergency Medicine
+Coastal Care Center,Seattle,CO,336,Dermatology
+Lakeview Hospital,Denver,CA,325,General Surgery
+River Valley Hospital,San Francisco,CA,372,General Surgery
+River Valley Hospital,Miami,FL,111,Oncology
+River Valley Hospital,Seattle,AZ,335,General Surgery
+Lakeview Hospital,New York,CO,120,Cardiology
+Pinewood Health,Seattle,WA,233,Oncology
+Central Healthcare,Los Angeles,CA,173,Pediatrics
+Pinewood Health,Chicago,TX,459,Dermatology
+Pinewood Health,Houston,CO,268,Emergency Medicine
+Hilltop Clinic,Chicago,CA,276,Emergency Medicine
+Central Healthcare,Denver,CO,404,Orthopedics
+Northside Hospital,New York,AZ,417,Pediatrics
+Northside Hospital,Denver,WA,357,Dermatology
+Coastal Care Center,Miami,CA,446,General Surgery
+Hilltop Clinic,Houston,TX,211,Pediatrics
+Hilltop Clinic,Seattle,WA,358,Emergency Medicine
+Central Healthcare,Houston,NY,437,Dermatology
+River Valley Hospital,Chicago,FL,461,Orthopedics
+Central Healthcare,San Francisco,NY,372,Pediatrics
+Sunrise Medical Center,Denver,AZ,451,General Surgery
+Lakeview Hospital,Houston,AZ,194,Orthopedics
+River Valley Hospital,Miami,IL,180,Orthopedics
+Lakeview Hospital,Miami,CO,203,Pediatrics
+City Medical Center,New York,FL,292,Dermatology
+River Valley Hospital,Phoenix,WA,422,Pediatrics
+Sunrise Medical Center,San Francisco,FL,424,Orthopedics
+Hilltop Clinic,Houston,CA,399,General Surgery
+Lakeview Hospital,Denver,FL,163,General Surgery
+River Valley Hospital,New York,CO,240,Cardiology
+Northside Hospital,Denver,CO,482,Neurology
+Sunrise Medical Center,New York,FL,143,Pediatrics
+Lakeview Hospital,New York,CO,96,Dermatology
+General Hospital,Chicago,FL,203,Neurology
+Pinewood Health,Dallas,NY,238,Dermatology
+Northside Hospital,Los Angeles,CA,271,Neurology
+Coastal Care Center,San Francisco,FL,488,Neurology
+City Medical Center,Miami,AZ,355,Pediatrics
+River Valley Hospital,Phoenix,TX,228,Neurology
+Northside Hospital,Los Angeles,FL,483,Cardiology
+Northside Hospital,Seattle,CO,283,General Surgery
+Coastal Care Center,Miami,TX,434,Neurology
+Pinewood Health,Dallas,WA,386,Neurology
+River Valley Hospital,Phoenix,AZ,417,Pediatrics
+City Medical Center,Houston,CA,79,Dermatology
+Coastal Care Center,Miami,TX,206,Oncology
+Lakeview Hospital,Los Angeles,IL,408,Emergency Medicine
+River Valley Hospital,Chicago,TX,406,Oncology
+Northside Hospital,Denver,CO,332,General Surgery
+Northside Hospital,Houston,CA,361,Oncology
+Hilltop Clinic,Houston,IL,111,Neurology
+Pinewood Health,New York,FL,357,Emergency Medicine
+Lakeview Hospital,Houston,CA,368,Neurology
+City Medical Center,Dallas,CA,290,General Surgery
+River Valley Hospital,Denver,CO,83,General Surgery
+General Hospital,Dallas,NY,284,Emergency Medicine
+Lakeview Hospital,San Francisco,TX,455,Oncology
+Pinewood Health,New York,FL,302,Dermatology
+Sunrise Medical Center,Los Angeles,CO,442,Neurology
+River Valley Hospital,Chicago,AZ,500,Oncology
+Coastal Care Center,New York,AZ,149,Orthopedics
+Sunrise Medical Center,Miami,CA,99,Emergency Medicine
+River Valley Hospital,New York,WA,370,Cardiology
+Central Healthcare,Dallas,TX,454,Neurology
+City Medical Center,Denver,CA,217,Orthopedics
+Northside Hospital,Houston,IL,399,General Surgery
+Lakeview Hospital,Phoenix,WA,280,Orthopedics
+Lakeview Hospital,Phoenix,FL,326,Cardiology
+Hilltop Clinic,Miami,CA,198,Orthopedics
+Central Healthcare,New York,IL,111,Dermatology
+Sunrise Medical Center,Houston,CO,250,Dermatology
+River Valley Hospital,Los Angeles,CA,137,Pediatrics
+General Hospital,San Francisco,NY,132,Orthopedics
+Central Healthcare,Seattle,WA,175,General Surgery
+Lakeview Hospital,San Francisco,CA,230,General Surgery
+River Valley Hospital,Denver,AZ,422,Emergency Medicine
+Central Healthcare,Phoenix,NY,443,Oncology
+City Medical Center,New York,TX,313,Emergency Medicine
+Northside Hospital,Denver,FL,417,Emergency Medicine
+Sunrise Medical Center,New York,AZ,324,Emergency Medicine
+General Hospital,Seattle,CA,87,Cardiology
+River Valley Hospital,Denver,AZ,269,Dermatology
+Sunrise Medical Center,Dallas,CA,495,Emergency Medicine
+City Medical Center,Phoenix,CO,432,Oncology
+Northside Hospital,Dallas,AZ,121,Cardiology
+Central Healthcare,Denver,CO,254,Dermatology
+River Valley Hospital,Phoenix,TX,202,Dermatology
+River Valley Hospital,San Francisco,TX,425,Pediatrics
+Pinewood Health,Los Angeles,TX,144,Pediatrics
+Sunrise Medical Center,Dallas,NY,357,Neurology
+Pinewood Health,Phoenix,TX,429,Pediatrics
+Pinewood Health,Denver,FL,468,Dermatology
+Lakeview Hospital,Phoenix,FL,351,Neurology
+Northside Hospital,San Francisco,TX,359,General Surgery
+Lakeview Hospital,Los Angeles,FL,171,Pediatrics
+Pinewood Health,Denver,NY,352,Oncology
+Sunrise Medical Center,Seattle,NY,269,Cardiology
+Coastal Care Center,Los Angeles,WA,337,Dermatology
+City Medical Center,Phoenix,CO,494,Oncology
+Sunrise Medical Center,Dallas,FL,454,Emergency Medicine
+Pinewood Health,Miami,IL,329,Dermatology
+Sunrise Medical Center,Denver,CO,268,Cardiology
+Coastal Care Center,Houston,WA,81,Emergency Medicine
+City Medical Center,Los Angeles,WA,403,Cardiology
+Lakeview Hospital,Houston,WA,217,Neurology
+Pinewood Health,San Francisco,CA,169,Pediatrics
+General Hospital,New York,NY,105,General Surgery
+Northside Hospital,Los Angeles,WA,375,Cardiology
+Coastal Care Center,Phoenix,CA,147,Cardiology
+River Valley Hospital,San Francisco,NY,63,Cardiology
+Coastal Care Center,Seattle,WA,482,General Surgery
+City Medical Center,Houston,IL,291,Cardiology
+Sunrise Medical Center,Houston,TX,394,Neurology
+Northside Hospital,San Francisco,AZ,103,Pediatrics
+Lakeview Hospital,New York,WA,235,Orthopedics
+City Medical Center,Chicago,AZ,473,General Surgery
+Northside Hospital,Denver,TX,68,Pediatrics
+Coastal Care Center,Phoenix,NY,431,Orthopedics
+Northside Hospital,San Francisco,FL,114,Pediatrics
+Pinewood Health,Miami,NY,416,Neurology
+Coastal Care Center,Phoenix,FL,224,Dermatology
+Northside Hospital,Houston,FL,317,Orthopedics
+Northside Hospital,Miami,FL,103,General Surgery
+Central Healthcare,Dallas,IL,489,Orthopedics
+General Hospital,Los Angeles,WA,242,Cardiology
+Northside Hospital,San Francisco,AZ,108,Dermatology
+Coastal Care Center,New York,NY,204,Cardiology
+Coastal Care Center,Los Angeles,WA,226,Emergency Medicine
+General Hospital,Houston,WA,149,Neurology
+Pinewood Health,Phoenix,TX,86,Dermatology
+Pinewood Health,Denver,CO,202,Pediatrics
+Central Healthcare,Dallas,CA,65,Orthopedics
+Sunrise Medical Center,Miami,WA,438,Emergency Medicine
+City Medical Center,Los Angeles,TX,52,Cardiology
+General Hospital,Los Angeles,TX,430,Oncology
+Pinewood Health,Chicago,NY,226,Emergency Medicine
+Lakeview Hospital,Denver,NY,441,Neurology
+Northside Hospital,Seattle,TX,449,General Surgery
+Coastal Care Center,Dallas,TX,92,Cardiology
+Coastal Care Center,Phoenix,NY,56,Cardiology
+Lakeview Hospital,Phoenix,WA,75,Orthopedics
+Lakeview Hospital,Houston,CO,239,Cardiology
+General Hospital,Los Angeles,TX,177,Emergency Medicine
+Hilltop Clinic,New York,CA,347,Dermatology
+City Medical Center,San Francisco,NY,241,Cardiology
+Central Healthcare,New York,FL,237,Pediatrics
+Coastal Care Center,Phoenix,TX,462,Emergency Medicine
+Sunrise Medical Center,Denver,AZ,130,Dermatology
+Coastal Care Center,New York,CO,296,Pediatrics
+Pinewood Health,Phoenix,NY,103,Dermatology
+Pinewood Health,Houston,FL,160,Oncology
+Northside Hospital,Miami,CO,474,Emergency Medicine
+Lakeview Hospital,Los Angeles,WA,330,Orthopedics
+Northside Hospital,Los Angeles,AZ,177,Pediatrics
+River Valley Hospital,Miami,IL,135,Oncology
+Sunrise Medical Center,New York,TX,378,Dermatology
+Coastal Care Center,New York,NY,297,Pediatrics
+Hilltop Clinic,Dallas,TX,81,Oncology
+River Valley Hospital,Chicago,TX,180,General Surgery
+General Hospital,Miami,AZ,372,Neurology
+Central Healthcare,Denver,AZ,470,Cardiology
+Lakeview Hospital,Seattle,CA,368,Dermatology
+Sunrise Medical Center,Chicago,WA,301,Pediatrics
+Pinewood Health,Dallas,NY,482,Emergency Medicine
+Sunrise Medical Center,Denver,TX,184,Cardiology
+Coastal Care Center,Denver,IL,417,Pediatrics
+Coastal Care Center,Denver,CA,347,Pediatrics
+City Medical Center,Houston,FL,425,Emergency Medicine
+Sunrise Medical Center,Houston,IL,324,Cardiology
+Hilltop Clinic,Seattle,AZ,425,Orthopedics
+City Medical Center,Miami,CO,466,Orthopedics
+Coastal Care Center,Denver,CO,214,Neurology
+General Hospital,San Francisco,IL,446,Emergency Medicine
+Northside Hospital,Dallas,WA,88,Oncology
+Coastal Care Center,San Francisco,IL,75,Neurology
+City Medical Center,Miami,TX,50,Pediatrics
+Central Healthcare,San Francisco,CO,422,Oncology
+River Valley Hospital,Chicago,CA,463,Pediatrics
+Pinewood Health,Chicago,IL,469,Orthopedics
+Sunrise Medical Center,Denver,IL,165,General Surgery
+Hilltop Clinic,Houston,NY,303,Oncology
+Northside Hospital,Phoenix,NY,110,Cardiology
+Coastal Care Center,Seattle,WA,499,Dermatology
+City Medical Center,Seattle,TX,283,Cardiology
+Coastal Care Center,Los Angeles,IL,94,Oncology
+Northside Hospital,Dallas,IL,306,Orthopedics
+River Valley Hospital,Houston,CA,300,Dermatology
+City Medical Center,San Francisco,CO,183,Pediatrics
+Pinewood Health,Denver,WA,225,Orthopedics
+Sunrise Medical Center,Miami,IL,448,Neurology
+Central Healthcare,Houston,CO,211,General Surgery
+Coastal Care Center,Dallas,WA,69,Pediatrics
+Pinewood Health,Houston,CO,81,Emergency Medicine
+Northside Hospital,Los Angeles,AZ,120,Oncology
+Central Healthcare,Houston,CO,484,Dermatology
+River Valley Hospital,San Francisco,CA,101,Cardiology
+Coastal Care Center,New York,WA,434,Pediatrics
+Coastal Care Center,Chicago,FL,235,Oncology
+Sunrise Medical Center,San Francisco,IL,412,Pediatrics
+River Valley Hospital,Denver,IL,168,Cardiology
+Lakeview Hospital,New York,NY,88,Cardiology
+Pinewood Health,Houston,CA,331,Oncology
+Central Healthcare,Seattle,WA,117,Neurology
+Central Healthcare,New York,FL,55,Oncology
+City Medical Center,Denver,WA,61,Emergency Medicine
+Sunrise Medical Center,Dallas,IL,256,Orthopedics
+Hilltop Clinic,Chicago,NY,500,Neurology
+Central Healthcare,Seattle,FL,210,Pediatrics
+Pinewood Health,Los Angeles,CO,78,Orthopedics
+Sunrise Medical Center,Dallas,IL,321,Oncology
+Pinewood Health,Los Angeles,WA,444,Emergency Medicine
+Northside Hospital,Phoenix,CA,191,Oncology
+River Valley Hospital,San Francisco,CO,414,Oncology
+Sunrise Medical Center,San Francisco,WA,403,Orthopedics
+Hilltop Clinic,Miami,IL,185,Cardiology
+General Hospital,Chicago,AZ,361,Neurology
+Northside Hospital,Dallas,WA,378,General Surgery
+Hilltop Clinic,Miami,TX,256,Orthopedics
+Pinewood Health,Miami,WA,171,Emergency Medicine
+City Medical Center,Phoenix,AZ,137,Orthopedics
+General Hospital,Los Angeles,CO,386,Cardiology
+Coastal Care Center,Denver,FL,440,Cardiology
+General Hospital,New York,FL,493,Neurology
+Sunrise Medical Center,San Francisco,CO,388,Cardiology
+City Medical Center,Los Angeles,AZ,62,Orthopedics
+River Valley Hospital,Seattle,WA,438,Emergency Medicine
+Hilltop Clinic,Phoenix,CA,51,Neurology
+Coastal Care Center,Phoenix,IL,336,Oncology
+River Valley Hospital,Seattle,WA,245,Pediatrics
+Northside Hospital,Miami,NY,494,Orthopedics
+Central Healthcare,Chicago,WA,98,General Surgery
+General Hospital,Dallas,WA,467,Dermatology
+General Hospital,Houston,AZ,236,Pediatrics
+General Hospital,Houston,CO,352,Oncology
+City Medical Center,San Francisco,NY,63,Cardiology
+Lakeview Hospital,Chicago,TX,265,General Surgery
+Coastal Care Center,Los Angeles,AZ,319,Dermatology
+Sunrise Medical Center,Phoenix,CA,450,Cardiology
+Pinewood Health,Chicago,CO,362,Orthopedics
+Northside Hospital,Dallas,FL,326,Neurology
+Coastal Care Center,Dallas,WA,500,Orthopedics
+Central Healthcare,Denver,IL,344,General Surgery
+General Hospital,San Francisco,AZ,258,Dermatology
+General Hospital,Seattle,TX,156,Neurology
+River Valley Hospital,San Francisco,NY,144,Orthopedics
+City Medical Center,Seattle,CO,230,Neurology
+River Valley Hospital,San Francisco,AZ,51,Orthopedics
+General Hospital,San Francisco,CO,296,Emergency Medicine
+Pinewood Health,Denver,IL,159,Neurology
+Northside Hospital,Dallas,CO,177,Orthopedics
+River Valley Hospital,Houston,TX,381,Neurology
+General Hospital,Houston,CA,374,General Surgery
+City Medical Center,San Francisco,WA,277,Emergency Medicine
+Pinewood Health,Seattle,CA,304,General Surgery
+Coastal Care Center,Phoenix,IL,458,Orthopedics
+City Medical Center,Dallas,TX,361,General Surgery
+Central Healthcare,Phoenix,FL,74,Emergency Medicine
+Hilltop Clinic,New York,CO,84,General Surgery
+Sunrise Medical Center,Denver,TX,393,Cardiology
+Central Healthcare,New York,AZ,484,Orthopedics
+City Medical Center,Seattle,CA,146,Neurology
+River Valley Hospital,San Francisco,WA,421,Pediatrics
+General Hospital,San Francisco,NY,346,Pediatrics
+City Medical Center,San Francisco,CA,67,General Surgery
+City Medical Center,Dallas,AZ,356,Dermatology
+Sunrise Medical Center,Los Angeles,WA,255,General Surgery
+Pinewood Health,Los Angeles,IL,328,Pediatrics
+Lakeview Hospital,Denver,AZ,349,Dermatology
+Northside Hospital,Los Angeles,WA,389,Dermatology
+Lakeview Hospital,Denver,CA,124,General Surgery
+Lakeview Hospital,Phoenix,FL,471,Pediatrics
+City Medical Center,Los Angeles,IL,437,Emergency Medicine
+Pinewood Health,New York,NY,428,Dermatology
+City Medical Center,Houston,AZ,308,Oncology
+Northside Hospital,Miami,IL,332,Neurology
+Central Healthcare,Los Angeles,FL,65,Dermatology
+Pinewood Health,Miami,CA,297,Pediatrics
+Sunrise Medical Center,Seattle,CA,389,Oncology
+River Valley Hospital,New York,CA,231,Oncology
+Sunrise Medical Center,New York,NY,129,Oncology
+Lakeview Hospital,Los Angeles,NY,190,Orthopedics
+Lakeview Hospital,Phoenix,IL,480,Cardiology
+Lakeview Hospital,Los Angeles,TX,180,Emergency Medicine
+General Hospital,Los Angeles,WA,357,General Surgery
+City Medical Center,Houston,CA,223,Pediatrics
+River Valley Hospital,Chicago,FL,445,General Surgery
+Pinewood Health,Denver,FL,296,Cardiology
+Northside Hospital,Los Angeles,IL,339,Emergency Medicine
+Pinewood Health,Miami,CO,180,Cardiology
+Coastal Care Center,Miami,WA,224,Cardiology
+Pinewood Health,New York,IL,58,General Surgery
+Sunrise Medical Center,Houston,CO,410,Emergency Medicine
+Hilltop Clinic,Dallas,CA,279,Pediatrics
+Central Healthcare,Phoenix,TX,476,Neurology
+Sunrise Medical Center,San Francisco,FL,62,Emergency Medicine
+Hilltop Clinic,Miami,FL,388,Cardiology
+Sunrise Medical Center,New York,NY,140,Cardiology
+City Medical Center,Houston,FL,152,Emergency Medicine
+Central Healthcare,San Francisco,NY,277,Cardiology
+General Hospital,Houston,AZ,363,Cardiology
+City Medical Center,Denver,FL,328,Emergency Medicine
+Sunrise Medical Center,Chicago,FL,225,Cardiology
+River Valley Hospital,Houston,CA,488,Oncology
+Pinewood Health,San Francisco,NY,120,Orthopedics
+Central Healthcare,Dallas,CO,455,Dermatology
+Central Healthcare,Denver,WA,89,Oncology
+Sunrise Medical Center,Miami,CA,180,Cardiology
+Sunrise Medical Center,Denver,CO,62,Neurology
+Central Healthcare,Denver,WA,100,Neurology
+Hilltop Clinic,Los Angeles,NY,313,Emergency Medicine
+Hilltop Clinic,New York,NY,261,Orthopedics
+Northside Hospital,Seattle,NY,80,Dermatology
+Coastal Care Center,Dallas,AZ,432,Neurology
+Pinewood Health,San Francisco,NY,309,Oncology
+General Hospital,Houston,NY,472,Dermatology
+River Valley Hospital,Chicago,WA,295,General Surgery
+Central Healthcare,Chicago,AZ,444,General Surgery
+Hilltop Clinic,Miami,AZ,305,Dermatology
+Northside Hospital,Denver,NY,222,Oncology
+Sunrise Medical Center,Seattle,FL,50,Neurology
+Lakeview Hospital,San Francisco,IL,108,Oncology
+City Medical Center,San Francisco,IL,462,Emergency Medicine
+Hilltop Clinic,Dallas,CO,447,Dermatology
+Coastal Care Center,Denver,TX,270,Orthopedics
+Central Healthcare,San Francisco,CA,90,Oncology
+Lakeview Hospital,New York,WA,302,Emergency Medicine
+Central Healthcare,Phoenix,WA,163,Emergency Medicine
+Pinewood Health,Phoenix,WA,341,General Surgery
+River Valley Hospital,Dallas,WA,396,Oncology
+Northside Hospital,Houston,TX,400,Neurology
+River Valley Hospital,Houston,WA,61,Dermatology
+Northside Hospital,Phoenix,CA,117,Cardiology
+Coastal Care Center,Dallas,NY,171,Dermatology
+Northside Hospital,San Francisco,NY,131,Orthopedics
+Pinewood Health,New York,NY,270,General Surgery
+Coastal Care Center,San Francisco,FL,360,Neurology
+Hilltop Clinic,Los Angeles,WA,298,Pediatrics
+Lakeview Hospital,Denver,IL,80,Emergency Medicine
+Central Healthcare,New York,CO,122,Cardiology
+River Valley Hospital,Los Angeles,FL,373,Pediatrics
+Hilltop Clinic,Los Angeles,CA,324,Pediatrics
+River Valley Hospital,Los Angeles,NY,476,Neurology
+Hilltop Clinic,Houston,IL,253,Neurology
+City Medical Center,New York,CA,323,Oncology
+Lakeview Hospital,Denver,CO,467,Orthopedics
+Northside Hospital,Phoenix,FL,407,Neurology
+City Medical Center,New York,NY,394,Orthopedics
+Pinewood Health,Phoenix,IL,52,Emergency Medicine
+City Medical Center,Denver,NY,298,Cardiology
+Sunrise Medical Center,New York,WA,174,Cardiology
+General Hospital,Miami,TX,449,Dermatology
+Coastal Care Center,Miami,CA,341,Dermatology
+Hilltop Clinic,Los Angeles,CA,430,Neurology
+Hilltop Clinic,Houston,AZ,188,Cardiology
+Sunrise Medical Center,Chicago,FL,234,Cardiology
+Lakeview Hospital,Dallas,CA,123,Emergency Medicine
+Pinewood Health,Denver,TX,151,Cardiology
+Coastal Care Center,Denver,WA,391,Dermatology
+Northside Hospital,New York,AZ,475,Neurology
+Central Healthcare,Seattle,IL,195,Neurology
+Hilltop Clinic,Los Angeles,AZ,338,Cardiology
+Northside Hospital,San Francisco,WA,84,Emergency Medicine
+Central Healthcare,Denver,IL,106,Emergency Medicine
+Sunrise Medical Center,San Francisco,FL,222,Orthopedics
+City Medical Center,Houston,AZ,281,General Surgery
+City Medical Center,Dallas,CA,279,Dermatology
+Sunrise Medical Center,Miami,CA,217,Cardiology
+Lakeview Hospital,Seattle,IL,275,Cardiology
+General Hospital,San Francisco,CA,126,Orthopedics
+Coastal Care Center,Seattle,AZ,319,Dermatology
+River Valley Hospital,Denver,NY,417,Neurology
+Sunrise Medical Center,Phoenix,NY,107,Dermatology
+River Valley Hospital,Los Angeles,FL,469,Oncology
+Pinewood Health,Miami,NY,64,General Surgery
+Pinewood Health,San Francisco,WA,274,Orthopedics
+River Valley Hospital,Seattle,WA,108,Orthopedics
+Hilltop Clinic,New York,NY,463,Oncology
+General Hospital,Phoenix,CO,362,Cardiology
+Coastal Care Center,Miami,NY,435,Pediatrics
+Hilltop Clinic,Dallas,NY,75,Cardiology
+Central Healthcare,Seattle,FL,124,Neurology
+Northside Hospital,San Francisco,AZ,292,Cardiology
+Lakeview Hospital,New York,CO,351,General Surgery
+Central Healthcare,Seattle,AZ,151,Neurology
+Lakeview Hospital,Chicago,AZ,109,Neurology
+Pinewood Health,New York,FL,448,General Surgery
+Sunrise Medical Center,Denver,TX,313,General Surgery
+Hilltop Clinic,Denver,AZ,421,General Surgery
+Sunrise Medical Center,New York,CO,233,General Surgery
+River Valley Hospital,Houston,NY,244,Dermatology
+River Valley Hospital,San Francisco,AZ,434,Pediatrics
+City Medical Center,San Francisco,FL,345,Cardiology
+City Medical Center,Chicago,AZ,470,Dermatology
+General Hospital,Phoenix,FL,251,Pediatrics
+River Valley Hospital,San Francisco,CO,422,Pediatrics
+Hilltop Clinic,New York,WA,67,General Surgery
+Pinewood Health,San Francisco,CO,346,Orthopedics
+River Valley Hospital,Los Angeles,AZ,327,Dermatology
+Central Healthcare,Chicago,IL,219,Orthopedics
+Sunrise Medical Center,Denver,CA,178,Oncology
+Sunrise Medical Center,Dallas,TX,498,Cardiology
+General Hospital,Phoenix,FL,331,Pediatrics
+Sunrise Medical Center,Chicago,TX,262,Oncology
+Central Healthcare,San Francisco,TX,469,Cardiology
+Coastal Care Center,Dallas,FL,130,Emergency Medicine
+Sunrise Medical Center,Phoenix,AZ,467,Orthopedics
+Lakeview Hospital,Chicago,FL,280,Orthopedics
+Coastal Care Center,Los Angeles,WA,215,Dermatology
+General Hospital,New York,CA,389,Dermatology
+Northside Hospital,Seattle,AZ,198,Neurology
+Sunrise Medical Center,New York,IL,84,Neurology
+Northside Hospital,Los Angeles,CA,59,Orthopedics
+General Hospital,Phoenix,AZ,150,Neurology
+Coastal Care Center,Chicago,TX,393,Neurology
+Central Healthcare,Miami,FL,350,General Surgery
+Lakeview Hospital,San Francisco,TX,215,Neurology
+Lakeview Hospital,Chicago,AZ,239,Pediatrics
+Northside Hospital,Miami,AZ,212,Orthopedics
+Northside Hospital,Los Angeles,IL,70,Dermatology
+Lakeview Hospital,Phoenix,IL,219,Orthopedics
+River Valley Hospital,New York,WA,490,Emergency Medicine
+Pinewood Health,Miami,NY,434,Neurology
+Coastal Care Center,Miami,IL,469,Oncology
+Hilltop Clinic,Los Angeles,IL,403,Pediatrics
+Sunrise Medical Center,Dallas,WA,186,Pediatrics
+River Valley Hospital,Los Angeles,CA,382,General Surgery
+City Medical Center,Denver,CA,222,Emergency Medicine
+Coastal Care Center,Chicago,WA,289,Orthopedics
+Pinewood Health,Denver,FL,314,Cardiology
+Hilltop Clinic,Seattle,AZ,308,Emergency Medicine
+Pinewood Health,Seattle,NY,344,Oncology
+Central Healthcare,Denver,FL,281,Oncology
+Coastal Care Center,New York,AZ,113,Cardiology
+City Medical Center,Seattle,FL,432,Oncology
+River Valley Hospital,Houston,NY,424,Pediatrics
+Pinewood Health,San Francisco,FL,155,Cardiology
+Coastal Care Center,Houston,CO,473,Neurology
+General Hospital,Chicago,IL,71,Cardiology
+Central Healthcare,Miami,IL,442,Neurology
+Northside Hospital,Phoenix,FL,123,General Surgery
+Central Healthcare,Houston,CA,105,Dermatology
+River Valley Hospital,Denver,IL,120,Emergency Medicine
+Sunrise Medical Center,Chicago,CO,250,Dermatology
+City Medical Center,Seattle,WA,200,Emergency Medicine
+Sunrise Medical Center,New York,FL,304,General Surgery
+Sunrise Medical Center,Seattle,TX,461,Orthopedics
+General Hospital,Miami,CO,238,Cardiology
+City Medical Center,Miami,IL,301,Dermatology
+General Hospital,Miami,CO,294,Oncology
+City Medical Center,Denver,TX,297,Emergency Medicine
+River Valley Hospital,Houston,TX,255,Neurology
+River Valley Hospital,Miami,CA,76,Orthopedics
+Lakeview Hospital,San Francisco,AZ,405,Neurology
+Northside Hospital,Chicago,NY,388,Neurology
+River Valley Hospital,Miami,CO,259,Pediatrics
+Hilltop Clinic,Los Angeles,FL,271,Neurology
+Coastal Care Center,Dallas,TX,356,Emergency Medicine
+Coastal Care Center,Chicago,CO,341,Neurology
+Pinewood Health,Phoenix,CA,390,Neurology
+Pinewood Health,Seattle,WA,334,Orthopedics
+Central Healthcare,Houston,TX,155,Emergency Medicine
+Coastal Care Center,Miami,IL,86,Orthopedics
+Hilltop Clinic,Dallas,IL,67,Orthopedics
+Northside Hospital,Dallas,FL,196,Neurology
+Pinewood Health,Houston,FL,224,Cardiology
+Northside Hospital,New York,WA,158,Neurology
+River Valley Hospital,Seattle,FL,492,Oncology
+Coastal Care Center,Phoenix,AZ,454,Oncology
+Lakeview Hospital,Dallas,FL,296,General Surgery
+Hilltop Clinic,Phoenix,FL,160,Cardiology
+Northside Hospital,Miami,WA,485,Emergency Medicine
+Sunrise Medical Center,Miami,CO,374,Orthopedics
+General Hospital,Denver,CA,373,Emergency Medicine
+Coastal Care Center,New York,WA,184,Dermatology
+Pinewood Health,Houston,NY,232,Dermatology
+Lakeview Hospital,New York,IL,284,General Surgery
+Central Healthcare,Dallas,WA,474,Oncology
+General Hospital,Chicago,IL,312,Orthopedics
+Coastal Care Center,Miami,FL,411,Emergency Medicine
+Lakeview Hospital,Dallas,TX,457,Oncology
+Hilltop Clinic,Phoenix,NY,162,Dermatology
+General Hospital,Denver,NY,159,Dermatology
+Sunrise Medical Center,Chicago,AZ,273,Pediatrics
+Pinewood Health,Houston,CA,284,Oncology
+Sunrise Medical Center,Miami,AZ,119,General Surgery
+Coastal Care Center,New York,IL,396,Pediatrics
+Northside Hospital,Phoenix,CO,162,General Surgery
+Coastal Care Center,Los Angeles,CA,292,Emergency Medicine
+Coastal Care Center,Dallas,NY,331,General Surgery
+Sunrise Medical Center,Phoenix,NY,414,Cardiology
+Coastal Care Center,Houston,CA,287,Pediatrics
+Northside Hospital,Miami,CA,478,Neurology
+Hilltop Clinic,Denver,NY,459,General Surgery
+City Medical Center,New York,IL,443,Orthopedics
+Hilltop Clinic,Dallas,CA,492,Pediatrics
+Lakeview Hospital,New York,CO,296,Neurology
+Central Healthcare,Dallas,CO,80,Dermatology
+Sunrise Medical Center,Miami,IL,125,Emergency Medicine
+Northside Hospital,San Francisco,NY,146,General Surgery
+River Valley Hospital,Denver,IL,430,Cardiology
+Sunrise Medical Center,Los Angeles,FL,235,Orthopedics
+Coastal Care Center,Houston,CO,292,Cardiology
+Hilltop Clinic,Houston,NY,491,General Surgery
+General Hospital,Chicago,FL,381,Dermatology
+General Hospital,Dallas,WA,146,Pediatrics
+Coastal Care Center,Miami,FL,446,Oncology
+City Medical Center,Phoenix,FL,305,Pediatrics
+Central Healthcare,Denver,NY,456,Dermatology
+General Hospital,Phoenix,WA,327,Neurology
+Northside Hospital,Dallas,NY,123,Oncology
+Northside Hospital,Phoenix,CO,354,Pediatrics
+Northside Hospital,New York,WA,363,Pediatrics
+General Hospital,San Francisco,CA,498,Pediatrics
+Central Healthcare,San Francisco,WA,428,General Surgery
+City Medical Center,Miami,IL,489,General Surgery
+General Hospital,Chicago,FL,237,Pediatrics
+Sunrise Medical Center,Los Angeles,WA,115,Neurology
+Northside Hospital,San Francisco,WA,92,Neurology
+Pinewood Health,Los Angeles,AZ,347,Emergency Medicine
+City Medical Center,Chicago,WA,218,Dermatology
+Hilltop Clinic,Los Angeles,WA,73,General Surgery
+Sunrise Medical Center,Houston,CO,160,Dermatology
+River Valley Hospital,Seattle,CO,318,General Surgery
+City Medical Center,Los Angeles,CO,165,Emergency Medicine
+General Hospital,Chicago,NY,75,Emergency Medicine
+Coastal Care Center,Miami,CO,105,Emergency Medicine
+Pinewood Health,Chicago,IL,399,General Surgery
+Lakeview Hospital,New York,CO,316,General Surgery
+City Medical Center,Dallas,AZ,117,Pediatrics
+Sunrise Medical Center,New York,CA,280,General Surgery
+Lakeview Hospital,Seattle,TX,482,Orthopedics
+Hilltop Clinic,Miami,TX,239,Neurology
+Coastal Care Center,San Francisco,IL,110,Dermatology
+Coastal Care Center,Seattle,WA,335,Emergency Medicine
+Pinewood Health,Phoenix,CA,314,Neurology
+General Hospital,Seattle,NY,444,Pediatrics
+Pinewood Health,Seattle,CA,251,Oncology
+Hilltop Clinic,Seattle,AZ,183,General Surgery
+River Valley Hospital,Los Angeles,WA,330,Emergency Medicine
+General Hospital,Houston,CA,265,Oncology
+Pinewood Health,New York,IL,332,Orthopedics
+River Valley Hospital,New York,AZ,399,Pediatrics
+Sunrise Medical Center,Houston,TX,196,Emergency Medicine
+Lakeview Hospital,Dallas,WA,68,Emergency Medicine
+City Medical Center,Dallas,IL,316,Pediatrics
+Northside Hospital,Miami,CO,417,General Surgery
+Coastal Care Center,Phoenix,CO,272,Orthopedics
+Pinewood Health,Dallas,CO,304,Orthopedics
+Sunrise Medical Center,Chicago,FL,196,Cardiology
+Central Healthcare,Chicago,CA,461,Cardiology
+Pinewood Health,Miami,CA,105,Orthopedics
+City Medical Center,Los Angeles,CA,332,Emergency Medicine
+Lakeview Hospital,San Francisco,AZ,55,Pediatrics
+Coastal Care Center,Houston,CA,354,Dermatology
+City Medical Center,Seattle,NY,391,Pediatrics
+Central Healthcare,Miami,WA,82,General Surgery
+Coastal Care Center,Seattle,IL,297,General Surgery
+Sunrise Medical Center,Denver,AZ,407,Neurology
+Sunrise Medical Center,Chicago,IL,168,General Surgery
+General Hospital,Seattle,NY,380,Neurology
+Hilltop Clinic,Dallas,AZ,86,Cardiology
+Hilltop Clinic,San Francisco,FL,279,Pediatrics
+Sunrise Medical Center,Chicago,CA,445,Oncology
+Sunrise Medical Center,Miami,FL,224,Oncology
+Central Healthcare,Denver,AZ,239,Emergency Medicine
+Sunrise Medical Center,New York,WA,64,Oncology
+Northside Hospital,Dallas,CO,93,Pediatrics
+Hilltop Clinic,Los Angeles,TX,471,General Surgery
+General Hospital,San Francisco,CA,256,Oncology
+River Valley Hospital,Phoenix,AZ,91,Emergency Medicine
+Sunrise Medical Center,Miami,CA,285,Cardiology
+General Hospital,Dallas,TX,209,General Surgery
+Pinewood Health,Denver,FL,374,Neurology
+City Medical Center,Dallas,WA,301,Dermatology
+River Valley Hospital,Denver,WA,175,Neurology
+City Medical Center,Houston,CA,109,Dermatology
+General Hospital,Miami,CA,100,Neurology
+Central Healthcare,Miami,NY,385,Oncology
+Lakeview Hospital,Dallas,FL,345,Pediatrics
+Hilltop Clinic,Miami,NY,72,Orthopedics
+Sunrise Medical Center,Los Angeles,NY,475,Pediatrics
+Lakeview Hospital,Phoenix,AZ,244,Orthopedics
+Northside Hospital,Denver,NY,327,Pediatrics
+Central Healthcare,Denver,NY,416,Oncology
+Northside Hospital,Dallas,CA,408,Emergency Medicine
+Lakeview Hospital,Phoenix,WA,271,Neurology
+Pinewood Health,Phoenix,CA,345,Neurology
+Coastal Care Center,Denver,AZ,310,Dermatology
+General Hospital,Seattle,FL,184,Orthopedics
+Pinewood Health,Houston,WA,411,Cardiology
+General Hospital,Denver,IL,376,Orthopedics
+Lakeview Hospital,Houston,TX,300,Dermatology
+City Medical Center,Chicago,AZ,460,Emergency Medicine
+Pinewood Health,Seattle,AZ,423,Orthopedics
+General Hospital,Phoenix,AZ,328,Orthopedics
+Central Healthcare,Denver,WA,393,Neurology
+Pinewood Health,San Francisco,NY,188,Pediatrics
+General Hospital,Miami,FL,325,Pediatrics
+Lakeview Hospital,Phoenix,NY,388,Pediatrics
+General Hospital,San Francisco,FL,350,Orthopedics
+River Valley Hospital,New York,AZ,460,Dermatology
+Coastal Care Center,Houston,CA,58,Pediatrics
+Coastal Care Center,Seattle,CO,459,Orthopedics
+Hilltop Clinic,Houston,FL,78,Neurology
+Coastal Care Center,Dallas,IL,67,Orthopedics
+City Medical Center,Denver,CA,69,Cardiology
+Northside Hospital,New York,IL,155,Oncology
+River Valley Hospital,San Francisco,IL,473,Pediatrics
+Coastal Care Center,New York,CA,462,Cardiology
+Central Healthcare,Houston,TX,128,Cardiology
+Sunrise Medical Center,Dallas,CO,294,Oncology
+Coastal Care Center,Los Angeles,CA,263,Dermatology
+Pinewood Health,Seattle,TX,482,Pediatrics
+Northside Hospital,Denver,CA,123,Cardiology
+River Valley Hospital,New York,AZ,201,Cardiology
+Northside Hospital,Seattle,AZ,376,Orthopedics
+Pinewood Health,Miami,AZ,465,Oncology
+Coastal Care Center,Los Angeles,AZ,432,General Surgery
+General Hospital,Dallas,WA,74,General Surgery
+River Valley Hospital,Denver,WA,272,General Surgery
+Northside Hospital,Houston,WA,352,Neurology
+Lakeview Hospital,Seattle,IL,74,Cardiology
+Pinewood Health,Seattle,WA,167,Emergency Medicine
+Sunrise Medical Center,Los Angeles,NY,145,Emergency Medicine
+River Valley Hospital,Los Angeles,FL,68,Pediatrics
+River Valley Hospital,Los Angeles,CA,52,General Surgery
+Northside Hospital,Houston,NY,159,Neurology
+Coastal Care Center,New York,IL,377,Neurology
+Northside Hospital,Houston,NY,69,Dermatology
+City Medical Center,Miami,NY,353,Pediatrics
+River Valley Hospital,Miami,AZ,334,Cardiology
+Coastal Care Center,Seattle,AZ,112,Oncology
+General Hospital,Denver,CO,83,Neurology
+Pinewood Health,Miami,AZ,363,Oncology
+Northside Hospital,Dallas,WA,330,Emergency Medicine
+Hilltop Clinic,Houston,NY,247,Orthopedics
+River Valley Hospital,San Francisco,AZ,126,Emergency Medicine
+Northside Hospital,Denver,AZ,345,Neurology
+Central Healthcare,San Francisco,FL,196,Neurology
+Pinewood Health,New York,AZ,431,Orthopedics
+Sunrise Medical Center,Phoenix,FL,189,Pediatrics
+City Medical Center,New York,IL,119,Neurology
+Sunrise Medical Center,Chicago,WA,89,Neurology
+Lakeview Hospital,Denver,AZ,308,General Surgery
+City Medical Center,Chicago,IL,303,Neurology
+Pinewood Health,Seattle,FL,146,Dermatology
+Sunrise Medical Center,Miami,TX,271,Dermatology
+Lakeview Hospital,Dallas,NY,272,Cardiology
+River Valley Hospital,Dallas,FL,485,Cardiology
+Coastal Care Center,Seattle,IL,284,Neurology
+Central Healthcare,San Francisco,NY,124,Dermatology
+Central Healthcare,Houston,IL,302,Dermatology
+City Medical Center,Houston,CO,461,Orthopedics
+Northside Hospital,San Francisco,IL,245,Dermatology
+Pinewood Health,Phoenix,CO,194,General Surgery
+Central Healthcare,Denver,WA,259,Emergency Medicine
+General Hospital,New York,AZ,336,Cardiology
+General Hospital,Miami,IL,387,Emergency Medicine
+Coastal Care Center,Dallas,WA,222,Oncology
+Coastal Care Center,Seattle,AZ,382,Oncology
+Hilltop Clinic,Phoenix,CA,184,Oncology
+Coastal Care Center,Los Angeles,NY,306,Emergency Medicine
+Northside Hospital,Denver,IL,76,Neurology
+Pinewood Health,Denver,AZ,73,General Surgery
+Sunrise Medical Center,Phoenix,WA,260,Emergency Medicine
+Central Healthcare,Phoenix,WA,73,Dermatology
+General Hospital,Phoenix,CO,147,Dermatology
+Sunrise Medical Center,Houston,IL,144,Neurology
+Sunrise Medical Center,San Francisco,AZ,233,Neurology
+River Valley Hospital,Houston,FL,468,Pediatrics
+General Hospital,Dallas,CA,228,General Surgery
+Hilltop Clinic,Miami,IL,235,Cardiology
+Hilltop Clinic,Miami,CA,453,Orthopedics
+Lakeview Hospital,Denver,TX,110,Pediatrics
+Northside Hospital,San Francisco,CO,453,Cardiology
+Hilltop Clinic,Miami,WA,473,Oncology
+Northside Hospital,Houston,NY,75,Orthopedics
+Pinewood Health,Chicago,CA,112,General Surgery
+Coastal Care Center,Miami,FL,254,General Surgery
+Coastal Care Center,Miami,NY,178,Orthopedics
+City Medical Center,Seattle,CO,472,Orthopedics
+Pinewood Health,Denver,TX,484,Cardiology
+Northside Hospital,Chicago,WA,174,Orthopedics
+Pinewood Health,Denver,CO,197,Orthopedics
+Coastal Care Center,Dallas,FL,249,Dermatology
+Sunrise Medical Center,New York,CO,131,General Surgery
+Sunrise Medical Center,Denver,NY,301,Dermatology
+City Medical Center,Dallas,CO,187,Dermatology
+River Valley Hospital,Los Angeles,TX,217,Pediatrics
+Coastal Care Center,Miami,CA,427,Emergency Medicine
+General Hospital,Los Angeles,FL,70,Orthopedics
+Pinewood Health,Miami,FL,374,Orthopedics
+Coastal Care Center,San Francisco,AZ,104,Orthopedics
+General Hospital,Los Angeles,FL,143,Dermatology
+Coastal Care Center,Houston,TX,154,General Surgery
+City Medical Center,Houston,CA,336,Dermatology
+Sunrise Medical Center,New York,TX,184,Neurology
+Coastal Care Center,Los Angeles,CO,233,Dermatology
+Sunrise Medical Center,Chicago,IL,356,Orthopedics
+Lakeview Hospital,New York,TX,375,Oncology
+Pinewood Health,Seattle,AZ,485,General Surgery
+Central Healthcare,Denver,NY,254,Neurology
+Northside Hospital,Phoenix,NY,319,Oncology
+Northside Hospital,Houston,TX,125,Pediatrics
+Coastal Care Center,Phoenix,IL,314,General Surgery
+Hilltop Clinic,Seattle,AZ,351,Dermatology
+Central Healthcare,Dallas,CA,59,Dermatology
+Sunrise Medical Center,Miami,FL,188,Oncology
+Pinewood Health,Denver,IL,348,General Surgery
+Hilltop Clinic,Los Angeles,NY,87,Pediatrics
+Northside Hospital,Denver,NY,308,Pediatrics
+City Medical Center,Dallas,CA,460,Cardiology
+Coastal Care Center,Dallas,TX,332,General Surgery
+Central Healthcare,Chicago,WA,365,Emergency Medicine
+Northside Hospital,Houston,NY,133,Emergency Medicine
+Pinewood Health,Houston,IL,363,General Surgery
+Central Healthcare,Denver,FL,483,General Surgery
+Hilltop Clinic,Dallas,CO,359,Orthopedics
+Central Healthcare,San Francisco,WA,262,General Surgery
+Central Healthcare,Miami,CO,143,Orthopedics
+Sunrise Medical Center,Houston,TX,444,General Surgery
+Sunrise Medical Center,Los Angeles,FL,346,Neurology
+Coastal Care Center,Chicago,NY,401,Pediatrics
+Hilltop Clinic,Chicago,TX,400,Cardiology
+General Hospital,Houston,FL,164,Dermatology
+River Valley Hospital,Dallas,FL,444,Pediatrics
+River Valley Hospital,Phoenix,CA,339,Emergency Medicine
+Central Healthcare,New York,FL,252,Dermatology
+Coastal Care Center,Miami,CO,439,Emergency Medicine
+Hilltop Clinic,Houston,TX,230,Dermatology
+City Medical Center,Phoenix,FL,208,Dermatology
+Coastal Care Center,Phoenix,FL,314,Oncology
+Pinewood Health,Houston,AZ,208,Pediatrics
+River Valley Hospital,Chicago,AZ,61,Neurology
+Sunrise Medical Center,Denver,IL,399,Cardiology
+Hilltop Clinic,Denver,AZ,178,Cardiology
+Northside Hospital,San Francisco,CA,91,General Surgery
+City Medical Center,Houston,FL,69,Orthopedics
+River Valley Hospital,Denver,AZ,454,General Surgery
+Hilltop Clinic,Miami,CA,446,Emergency Medicine
+Lakeview Hospital,Seattle,IL,404,Orthopedics
+Central Healthcare,San Francisco,NY,191,Dermatology
+General Hospital,Seattle,NY,315,Pediatrics
+City Medical Center,Seattle,AZ,370,Oncology
+River Valley Hospital,Los Angeles,FL,474,Cardiology
+Central Healthcare,New York,FL,73,General Surgery
+Northside Hospital,Miami,FL,138,Orthopedics
+Sunrise Medical Center,Miami,TX,386,Dermatology
+City Medical Center,Los Angeles,IL,471,Pediatrics
+General Hospital,Denver,CA,362,Dermatology
+City Medical Center,San Francisco,TX,97,Neurology
+Lakeview Hospital,Houston,IL,175,Dermatology
+Lakeview Hospital,New York,WA,94,Cardiology
+Central Healthcare,Phoenix,CA,311,Neurology
+Sunrise Medical Center,Seattle,CO,451,Pediatrics
+River Valley Hospital,Denver,CO,458,Orthopedics
+Sunrise Medical Center,Dallas,AZ,375,Pediatrics
+City Medical Center,Miami,WA,54,Emergency Medicine
+River Valley Hospital,Denver,NY,71,Neurology
+Pinewood Health,New York,WA,341,Dermatology
+City Medical Center,Miami,WA,283,Cardiology
+General Hospital,Houston,FL,409,Orthopedics
+Coastal Care Center,New York,WA,438,Orthopedics
+Pinewood Health,Seattle,NY,92,Orthopedics
+Pinewood Health,Seattle,AZ,122,Oncology
+River Valley Hospital,San Francisco,CA,160,Emergency Medicine
+City Medical Center,Los Angeles,CA,365,Emergency Medicine
+General Hospital,Seattle,IL,105,Emergency Medicine
+Sunrise Medical Center,Houston,WA,445,Dermatology
+Central Healthcare,Denver,NY,163,Dermatology
+River Valley Hospital,Chicago,CO,182,Orthopedics
+Coastal Care Center,San Francisco,WA,106,Neurology
+General Hospital,Denver,NY,98,Neurology
+River Valley Hospital,Seattle,IL,117,Neurology
+Coastal Care Center,Houston,CA,244,Oncology
+Hilltop Clinic,New York,WA,429,Emergency Medicine
+Sunrise Medical Center,Denver,IL,336,Dermatology
+Pinewood Health,Phoenix,IL,239,Oncology
+Coastal Care Center,Miami,TX,190,Orthopedics
+General Hospital,Miami,AZ,124,Emergency Medicine
+Central Healthcare,Denver,TX,289,Dermatology
+Sunrise Medical Center,Los Angeles,NY,180,Emergency Medicine
+Lakeview Hospital,Seattle,FL,380,Neurology
+Northside Hospital,Seattle,NY,363,Orthopedics
+River Valley Hospital,San Francisco,AZ,349,Dermatology
+City Medical Center,Dallas,AZ,389,General Surgery
+River Valley Hospital,Chicago,AZ,479,Orthopedics
+City Medical Center,Seattle,WA,462,Oncology
+River Valley Hospital,Houston,IL,369,Neurology
+City Medical Center,Denver,AZ,57,Pediatrics
+Coastal Care Center,Los Angeles,FL,319,Neurology
+Coastal Care Center,Houston,IL,123,Neurology
+Central Healthcare,Seattle,CO,55,Cardiology
+Lakeview Hospital,Los Angeles,NY,182,Emergency Medicine
+Hilltop Clinic,Los Angeles,FL,135,Dermatology
+Sunrise Medical Center,Denver,NY,438,Oncology
+River Valley Hospital,Houston,AZ,318,Neurology
+Coastal Care Center,Seattle,CA,114,Emergency Medicine
+Sunrise Medical Center,Chicago,TX,194,Orthopedics
+Lakeview Hospital,Los Angeles,AZ,275,General Surgery
+Lakeview Hospital,Denver,WA,70,Orthopedics
+Hilltop Clinic,Seattle,CO,444,General Surgery
+Central Healthcare,Denver,CO,165,Neurology
+Lakeview Hospital,Houston,CA,491,Cardiology
+Pinewood Health,Houston,AZ,488,Dermatology
+General Hospital,Houston,TX,174,Dermatology
+General Hospital,Chicago,AZ,272,Cardiology
+Sunrise Medical Center,San Francisco,CO,314,Neurology
+Lakeview Hospital,Dallas,CO,372,Neurology
+Hilltop Clinic,Denver,FL,75,Oncology
+Coastal Care Center,Dallas,AZ,212,Neurology
+Sunrise Medical Center,Los Angeles,CA,162,Emergency Medicine
+City Medical Center,Denver,CA,388,Neurology
+Hilltop Clinic,Houston,CO,288,Oncology
+Hilltop Clinic,Miami,IL,401,Cardiology
+Central Healthcare,Chicago,CA,318,Cardiology
+Northside Hospital,New York,FL,206,Orthopedics
+Northside Hospital,Denver,TX,86,Neurology
+Central Healthcare,Los Angeles,FL,497,Pediatrics
+Coastal Care Center,Dallas,WA,337,Oncology
+Lakeview Hospital,Phoenix,TX,285,Orthopedics
+Northside Hospital,New York,WA,285,Oncology
+Pinewood Health,Phoenix,IL,228,Neurology
+General Hospital,San Francisco,CO,321,Dermatology
+City Medical Center,Los Angeles,CA,268,Orthopedics
+Coastal Care Center,San Francisco,IL,306,Orthopedics
+Pinewood Health,San Francisco,FL,155,Oncology
+Coastal Care Center,Houston,CA,210,Oncology
+City Medical Center,Seattle,AZ,90,Emergency Medicine
+Lakeview Hospital,Phoenix,CA,260,Pediatrics
+City Medical Center,Seattle,TX,408,Emergency Medicine
+Central Healthcare,Seattle,CA,272,Dermatology
+Northside Hospital,New York,WA,418,Cardiology
+City Medical Center,Phoenix,WA,343,Pediatrics
+Lakeview Hospital,Miami,FL,164,General Surgery
+Pinewood Health,Dallas,NY,474,Orthopedics
+River Valley Hospital,Seattle,IL,344,Neurology
+General Hospital,Miami,FL,343,General Surgery
+Northside Hospital,Houston,AZ,52,Oncology
+Coastal Care Center,San Francisco,NY,111,Emergency Medicine
+Coastal Care Center,Dallas,WA,233,General Surgery
+Sunrise Medical Center,Seattle,CA,175,Cardiology
+General Hospital,New York,CA,274,Cardiology
+General Hospital,New York,WA,407,Neurology
+City Medical Center,San Francisco,FL,293,Cardiology
+Coastal Care Center,New York,CO,106,Pediatrics
+Central Healthcare,Houston,TX,167,Emergency Medicine
+General Hospital,San Francisco,IL,218,Pediatrics
+Lakeview Hospital,Los Angeles,WA,485,General Surgery
+General Hospital,Seattle,NY,281,Orthopedics
+Hilltop Clinic,Denver,CO,439,Oncology
+Pinewood Health,San Francisco,CA,162,Oncology
+Sunrise Medical Center,Los Angeles,FL,129,Dermatology
+Hilltop Clinic,Chicago,AZ,139,General Surgery
+City Medical Center,Denver,WA,343,Emergency Medicine
+General Hospital,San Francisco,AZ,328,Pediatrics
+Coastal Care Center,Dallas,NY,121,Neurology
+Lakeview Hospital,Dallas,CO,362,Pediatrics
+General Hospital,Houston,AZ,111,Cardiology
+Sunrise Medical Center,Chicago,AZ,159,Pediatrics
+Lakeview Hospital,Chicago,CO,58,Oncology
+Lakeview Hospital,Houston,AZ,192,Dermatology
+River Valley Hospital,Los Angeles,NY,463,Pediatrics
+Pinewood Health,New York,TX,106,Pediatrics
+Lakeview Hospital,Seattle,TX,82,Cardiology
+Pinewood Health,Miami,CA,137,Dermatology
+Central Healthcare,New York,NY,221,General Surgery
+Sunrise Medical Center,Chicago,IL,325,Cardiology
+Sunrise Medical Center,San Francisco,NY,262,Pediatrics
+Pinewood Health,Chicago,AZ,482,Neurology
+Lakeview Hospital,Houston,AZ,229,Pediatrics
+Central Healthcare,Phoenix,CO,446,Pediatrics
+Lakeview Hospital,Chicago,FL,380,Oncology
+City Medical Center,Houston,NY,75,Cardiology
+Sunrise Medical Center,Seattle,FL,83,Oncology
+Pinewood Health,Miami,CO,480,Emergency Medicine
+Pinewood Health,Miami,AZ,411,Emergency Medicine
+City Medical Center,Miami,CO,74,Orthopedics
+Central Healthcare,San Francisco,WA,458,General Surgery
+Hilltop Clinic,Dallas,IL,95,Orthopedics
+General Hospital,Dallas,CA,86,Neurology
+Central Healthcare,New York,NY,311,Oncology
+City Medical Center,Denver,WA,84,Neurology
+River Valley Hospital,Phoenix,NY,452,General Surgery
+Sunrise Medical Center,San Francisco,CA,73,Emergency Medicine
+Lakeview Hospital,Houston,FL,260,Dermatology
+Northside Hospital,San Francisco,CA,229,Emergency Medicine
+Sunrise Medical Center,Los Angeles,AZ,385,Pediatrics
+Sunrise Medical Center,San Francisco,WA,127,Neurology
+Coastal Care Center,New York,CO,315,Emergency Medicine
+Pinewood Health,Los Angeles,FL,379,Dermatology
+Sunrise Medical Center,Dallas,NY,122,Oncology
+Hilltop Clinic,Seattle,CO,230,General Surgery
+Pinewood Health,Miami,NY,110,Orthopedics
+Central Healthcare,Miami,NY,261,General Surgery
+Coastal Care Center,Phoenix,TX,412,Emergency Medicine
+Pinewood Health,Chicago,WA,253,Neurology
+Central Healthcare,San Francisco,WA,377,Dermatology
+Hilltop Clinic,San Francisco,TX,127,Oncology
+River Valley Hospital,Seattle,FL,494,Cardiology
+River Valley Hospital,Seattle,TX,441,Oncology
+Central Healthcare,San Francisco,WA,175,Neurology
+City Medical Center,Miami,WA,300,Pediatrics
+Hilltop Clinic,Seattle,WA,120,Dermatology
+City Medical Center,Los Angeles,FL,204,Emergency Medicine
+Northside Hospital,San Francisco,CO,74,General Surgery
+Coastal Care Center,Seattle,CA,79,General Surgery
+General Hospital,Phoenix,TX,388,Emergency Medicine
+Lakeview Hospital,Phoenix,TX,431,Dermatology
+City Medical Center,Chicago,AZ,155,Oncology
+Coastal Care Center,Seattle,CA,132,General Surgery
+City Medical Center,Seattle,AZ,450,Neurology
+Lakeview Hospital,Houston,IL,158,Cardiology
+City Medical Center,Dallas,NY,276,Oncology
+Lakeview Hospital,San Francisco,NY,460,Orthopedics
+Pinewood Health,Seattle,FL,378,Neurology
+Pinewood Health,Houston,CO,262,Dermatology
+Hilltop Clinic,Dallas,CO,234,Oncology
+Coastal Care Center,Miami,NY,147,Emergency Medicine
+Central Healthcare,Dallas,FL,271,Pediatrics
+Pinewood Health,New York,WA,355,Cardiology
+City Medical Center,San Francisco,CO,407,Cardiology
+River Valley Hospital,Denver,NY,464,Oncology
+River Valley Hospital,Los Angeles,AZ,240,Neurology
+Coastal Care Center,New York,IL,401,Neurology
+Central Healthcare,Miami,FL,58,Pediatrics
+Lakeview Hospital,San Francisco,NY,351,Neurology
+Coastal Care Center,Houston,NY,313,General Surgery
+Coastal Care Center,New York,IL,465,Orthopedics
+City Medical Center,Houston,CO,113,Pediatrics
+Coastal Care Center,San Francisco,IL,57,Oncology
+City Medical Center,Denver,CA,463,Oncology
+Coastal Care Center,Miami,FL,381,Emergency Medicine
+City Medical Center,Seattle,NY,401,Dermatology
+Pinewood Health,Seattle,NY,374,General Surgery
+Central Healthcare,Denver,CA,103,Neurology
+Coastal Care Center,Los Angeles,CA,137,Oncology
+Lakeview Hospital,Los Angeles,NY,70,Oncology
+Central Healthcare,Denver,NY,55,Pediatrics
+River Valley Hospital,San Francisco,WA,343,Emergency Medicine
+River Valley Hospital,Denver,CO,339,Dermatology
+Hilltop Clinic,Phoenix,NY,389,Emergency Medicine
+Coastal Care Center,Miami,CO,323,Orthopedics
+Sunrise Medical Center,San Francisco,CO,153,Pediatrics
+General Hospital,Denver,CO,51,Orthopedics
+Northside Hospital,Houston,TX,440,Pediatrics
+Hilltop Clinic,New York,FL,168,Dermatology
+City Medical Center,San Francisco,CA,456,Neurology
+River Valley Hospital,San Francisco,NY,343,Oncology
+General Hospital,Houston,IL,208,Dermatology
+Coastal Care Center,Phoenix,CO,412,Pediatrics
+Lakeview Hospital,Miami,FL,197,Neurology
+City Medical Center,Houston,CO,241,Emergency Medicine
+General Hospital,Miami,CO,457,Dermatology
+Coastal Care Center,Los Angeles,NY,127,General Surgery
+Lakeview Hospital,Seattle,TX,269,Oncology
+Hilltop Clinic,Phoenix,CO,228,Cardiology
+Lakeview Hospital,Los Angeles,CO,155,Pediatrics
+Northside Hospital,Chicago,FL,152,Oncology
+River Valley Hospital,Chicago,WA,270,Neurology
+River Valley Hospital,Dallas,AZ,463,Neurology
+Coastal Care Center,Phoenix,NY,480,Dermatology
+Central Healthcare,Houston,TX,230,Cardiology
+Coastal Care Center,Houston,NY,483,Oncology
+City Medical Center,Seattle,IL,306,Emergency Medicine
+Hilltop Clinic,Houston,AZ,429,Pediatrics
+Northside Hospital,Miami,FL,57,Oncology
+River Valley Hospital,Houston,AZ,243,Dermatology
+River Valley Hospital,Seattle,CA,422,Oncology
+River Valley Hospital,Los Angeles,TX,477,Oncology
+Sunrise Medical Center,Denver,FL,293,Emergency Medicine
+Sunrise Medical Center,Denver,IL,440,Neurology
+River Valley Hospital,Dallas,CA,141,Emergency Medicine
